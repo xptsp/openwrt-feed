@@ -1,0 +1,78 @@
+[submodule "luci/luci-app-adguardhome"]
+	path = luci/luci-app-adguardhome
+	url = https://github.com/xptsp/luci-app-adguardhome
+[submodule "luci/luci-app-nodogsplash"]
+	path = luci/luci-app-nodogsplash
+	url = https://github.com/xptsp/luci-app-nodogsplash
+[submodule "luci/luci-app-squid-adv"]
+	path = luci/luci-app-squid-adv
+	url = https://github.com/xptsp/luci-app-squid-adv
+[submodule "luci/luci-app-ympd"]
+	path = luci/luci-app-ympd
+	url = https://github.com/xptsp/luci-app-ympd
+[submodule "luci/luci-mod-listening-ports"]
+	path = luci/luci-mod-listening-ports
+	url = https://github.com/xptsp/luci-mod-listening-ports
+[submodule "kmods/ugreen-kmods"]
+	path = kmods/ugreen-kmods
+	url = https://github.com/xptsp/openwrt-ugreen-kmods
+[submodule "packages/bcrypt-tool"]
+	path = packages/bcrypt-tool
+	url = https://github.com/xptsp/openwrt-bcrypt-tool
+[submodule "packages/e2guardian"]
+	path = packages/e2guardian
+	url = https://github.com/xptsp/openwrt-e2guardian
+[submodule "packages/peanut"]
+	path = packages/peanut
+	url = https://github.com/xptsp/openwrt-peanut
+[submodule "packages/port-trigger"]
+	path = packages/port-trigger
+	url = https://github.com/xptsp/openwrt-port-trigger
+[submodule "packages/privoxy-blocklist"]
+	path = packages/privoxy-blocklist
+	url = https://github.com/xptsp/openwrt-privoxy-blocklist
+[submodule "packages/reddragon-webservices"]
+	path = packages/reddragon-webservices
+	url = https://github.com/xptsp/openwrt-reddragon-webservices
+[submodule "kmods/rtl88x2bu-cl"]
+	path = kmods/rtl88x2bu-cl
+	url = https://github.com/mirobiala/rtl88x2bu-cl
+[submodule "packages/saned-initd"]
+	path = packages/saned-initd
+	url = https://github.com/xptsp/openwrt-saned-initd
+[submodule "packages/twin-bcrypt-js"]
+	path = packages/twin-bcrypt-js
+	url = https://github.com/xptsp/openwrt-twin-bcrypt-js
+[submodule "packages/vlmcsd"]
+	path = packages/vlmcsd
+	url = https://github.com/xptsp/openwrt-vlmcsd
+[submodule "packages/ympd"]
+	path = packages/ympd
+	url = https://github.com/xptsp/openwrt-ympd
+[submodule "luci/luci-app-alpha-config"]
+	path = luci/luci-app-alpha-config
+	url = https://github.com/animegasan/luci-app-alpha-config
+[submodule "luci/luci-app-argon-config"]
+	path = luci/luci-app-argon-config
+	url = https://github.com/jerrykuku/luci-app-argon-config
+[submodule "luci/luci-app-fancontrol"]
+	path = luci/luci-app-fancontrol
+	url = https://github.com/bigmalloy/luci-app-fancontrol
+[submodule "luci/luci-theme-alpha"]
+	path = luci/luci-theme-alpha
+	url = https://github.com/derisamedia/luci-theme-alpha
+[submodule "luci/luci-theme-argon"]
+	path = luci/luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon
+[submodule "luci/luci-theme-aurora"]
+	path = luci/luci-theme-aurora
+	url = https://github.com/eamonxg/luci-theme-aurora
+[submodule "luci/luci-theme-footstrap"]
+	path = luci/luci-theme-footstrap
+	url = https://github.com/VizzleTF/luci-theme-footstrap
+[submodule "luci/luci-theme-proton2025"]
+	path = luci/luci-theme-proton2025
+	url = https://github.com/ChesterGoodiny/luci-theme-proton2025
+[submodule "luci/luci-theme-shadcn"]
+	path = luci/luci-theme-shadcn
+	url = https://github.com/eamonxg/luci-theme-shadcn
