@@ -76,3 +76,6 @@
 [submodule "luci/luci-theme-shadcn"]
 	path = luci/luci-theme-shadcn
 	url = https://github.com/eamonxg/luci-theme-shadcn
+[submodule "fancontrol"]
+	path = fancontrol
+	url = https://github.com/JiaY-shi/fancontrol.git
