@@ -82,6 +82,3 @@
 [submodule "clevis"]
 	path = clevis
 	url = https://github.com/xptsp/openwrt-clevis
-[submodule "packages/diskmon"]
-	path = packages/diskmon
-	url = https://github.com/xptsp/openwrt-diskmon
