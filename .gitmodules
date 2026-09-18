@@ -82,3 +82,6 @@
 [submodule "clevis"]
 	path = clevis
 	url = https://github.com/xptsp/openwrt-clevis
+[submodule "tpm2"]
+	path = tpm2
+	url = https://github.com/justarandomgeek/tpm2-packages
