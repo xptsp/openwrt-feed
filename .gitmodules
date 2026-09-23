@@ -85,3 +85,6 @@
 [submodule "tpm2"]
 	path = tpm2
 	url = https://github.com/justarandomgeek/tpm2-packages
+[submodule "luci/luci-app-nginx-manager"]
+	path = luci/luci-app-nginx-manager
+	url = https://github.com/hello-yunshu/luci-app-nginx-manager
