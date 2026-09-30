@@ -91,3 +91,6 @@
 [submodule "packages/mwgp"]
 	path = packages/mwgp
 	url = https://github.com/xptsp/openwrt-mwgp
+[submodule "mwgp"]
+	path = mwgp
+	url = https://github.com/xptsp/openwrt-mwgp
