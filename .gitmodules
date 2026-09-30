@@ -88,3 +88,6 @@
 [submodule "luci/luci-app-nginx-manager"]
 	path = luci/luci-app-nginx-manager
 	url = https://github.com/hello-yunshu/luci-app-nginx-manager
+[submodule "packages/mwgp"]
+	path = packages/mwgp
+	url = https://github.com/xptsp/openwrt-mwgp
