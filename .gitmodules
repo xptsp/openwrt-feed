@@ -91,3 +91,6 @@
 [submodule "mwgp"]
 	path = mwgp
 	url = https://github.com/xptsp/openwrt-mwgp
+[submodule "packages/media-downloader"]
+	path = packages/media-downloader
+	url = https://github.com/xptsp/openwrt-media-downloader
