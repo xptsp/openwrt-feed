@@ -88,9 +88,9 @@
 [submodule "luci/luci-app-nginx-manager"]
 	path = luci/luci-app-nginx-manager
 	url = https://github.com/hello-yunshu/luci-app-nginx-manager
-[submodule "packages/mwgp"]
+[submodule "mwgp"]
 	path = mwgp
 	url = https://github.com/xptsp/openwrt-mwgp
-[submodule "packages/drama-downloader"]
+[submodule "packages/media-downloader"]
 	path = packages/media-downloader
-	url = https://github.com/xptsp/openwrt-drama-downloader
+	url = https://github.com/xptsp/openwrt-media-downloader
