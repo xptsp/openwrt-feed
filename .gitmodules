@@ -88,9 +88,12 @@
 [submodule "luci/luci-app-nginx-manager"]
 	path = luci/luci-app-nginx-manager
 	url = https://github.com/hello-yunshu/luci-app-nginx-manager
-[submodule "mwgp"]
-	path = mwgp
-	url = https://github.com/xptsp/openwrt-mwgp
 [submodule "packages/media-downloader"]
 	path = packages/media-downloader
 	url = https://github.com/xptsp/openwrt-media-downloader
+[submodule "packages/mwgp"]
+	path = packages/mwgp
+	url = https://github.com/xptsp/openwrt-mwgp
+[submodule "packages/chroot-mount"]
+	path = packages/chroot-mount
+	url = https://github.com/xptsp/openwrt-chroot-mount
